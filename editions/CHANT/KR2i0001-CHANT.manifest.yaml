@@ -1,0 +1,145 @@
+canonical_identifier: bkk:krp/KR2i0001/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR2i0001/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 吳越春秋
+  identifiers:
+    krp: KR2i0001
+  tags:
+    tls-dates: dat05000
+    kr-categories: KR2i
+    tls-internal:
+    - swl
+    - tr-en
+  source:
+    repository: tls-texts
+    path: data/tls/KR2i0001.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR2i0001_001-CHANT.yaml, hash: 'sha256:863232c35f1478ac40f8906f08943762657e993d9e9ad684944c156532838295'}
+  - {seq: 2, filename: KR2i0001_002-CHANT.yaml, hash: 'sha256:0ec5e05a00952d2eda58967f7518a365cb055a38d975c3d4b0ab482afd40498d'}
+  - {seq: 3, filename: KR2i0001_003-CHANT.yaml, hash: 'sha256:caf13e7e8cd24ccc4c079aa50a970087c0521c635a6f13fcaec7b7caafe90343'}
+  - {seq: 4, filename: KR2i0001_004-CHANT.yaml, hash: 'sha256:9c0c96f9f7f3f0956210aff9175c9120145120f5d06d1698f294a41724993c33'}
+  - {seq: 5, filename: KR2i0001_005-CHANT.yaml, hash: 'sha256:cb24001b01df6a1c7d0420da5031659739f1054fa3d8ee13c43fad179ea394da'}
+  - {seq: 6, filename: KR2i0001_006-CHANT.yaml, hash: 'sha256:1fbbc4ae229ef46212edca37caa42c9c3dcd714849a6d739167c5f7eaec71220'}
+  - {seq: 7, filename: KR2i0001_007-CHANT.yaml, hash: 'sha256:d91d1e1e8eb9e8c4a34dc8c04f2f61f02e24df9919a68995e6fc24d8719bd6a5'}
+  - {seq: 8, filename: KR2i0001_008-CHANT.yaml, hash: 'sha256:6874ff09b041b7eff8f38aae4301d180b8e38c9787fb75da1f3a2d4e73e5a56b'}
+  - {seq: 9, filename: KR2i0001_009-CHANT.yaml, hash: 'sha256:265927121d63d322390762389a2b20efaab80670cc4d369926afc019952d3e94'}
+  - {seq: 10, filename: KR2i0001_010-CHANT.yaml, hash: 'sha256:1a3b10539d1363d3df754243e1d986c9efad87501887bcc3d559259bd6d46808'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2i0001_001-CHANT.markers.yaml, hash: 'sha256:08e3d979232ab85ebd6a7e3c2579ae1550871dca4440aeee354e2fce5a5a941a'}
+  - {seq: 2, role: markers, filename: assets/KR2i0001_002-CHANT.markers.yaml, hash: 'sha256:5d8c892a347054149ced55102aa2dcf921a325a468491fd2ae8d98e862b213b3'}
+  - {seq: 3, role: markers, filename: assets/KR2i0001_003-CHANT.markers.yaml, hash: 'sha256:f679d0cfb262eb97c65d7fdab8695183cc3dad2b2284ab0daa538f614623a231'}
+  - {seq: 4, role: markers, filename: assets/KR2i0001_004-CHANT.markers.yaml, hash: 'sha256:bbf52ed51c88375f0b409a002c09d01011d535ada18a3d872fbfee927553a0eb'}
+  - {seq: 5, role: markers, filename: assets/KR2i0001_005-CHANT.markers.yaml, hash: 'sha256:a0fe54676e6e2010b32789ece4c99f79c23a53288a026d8bf1647429ffa2abfe'}
+  - {seq: 6, role: markers, filename: assets/KR2i0001_006-CHANT.markers.yaml, hash: 'sha256:085c5b3af067be4cee6d846cb33da7652498066b660da25eff45ac98e815d846'}
+  - {seq: 7, role: markers, filename: assets/KR2i0001_007-CHANT.markers.yaml, hash: 'sha256:bc54ae6f36271432761a36cb9d9181fd27575a8dd6663c456a03b51588cbe614'}
+  - {seq: 8, role: markers, filename: assets/KR2i0001_008-CHANT.markers.yaml, hash: 'sha256:9eda3de2f763c7d06fd10cae2824d7e8bb82baf6c4e33f19d2c90c23d234506f'}
+  - {seq: 9, role: markers, filename: assets/KR2i0001_009-CHANT.markers.yaml, hash: 'sha256:8f021919334b3223a3c28827719ee7330f81b301c522826a3d5c6ecd342f3ea5'}
+  - {seq: 10, role: markers, filename: assets/KR2i0001_010-CHANT.markers.yaml, hash: 'sha256:3ebec13b772269c4e27c0d661754ab794833c0089e2b95195135cb7f14efa5d1'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR2i0001_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 980
+  label: 吳太伯傳第一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR2i0001_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 828
+  label: 吳王壽夢傳第二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR2i0001_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 3791
+  label: 王僚使公子光傳第三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR2i0001_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 7217
+  label: 闔閭內傳第四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR2i0001_CHANT_005-1a.1-h
+    span:
+    - body
+    - 0
+    - 7474
+  label: 夫差內傳第五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR2i0001_CHANT_006-1a.1-h
+    span:
+    - body
+    - 0
+    - 1906
+  label: 越王無余外傳第六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR2i0001_CHANT_007-1a.1-h
+    span:
+    - body
+    - 0
+    - 4469
+  label: 勾踐入臣外傳第七
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR2i0001_CHANT_008-1a.1-h
+    span:
+    - body
+    - 0
+    - 2353
+  label: 勾踐歸國外傳第八
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR2i0001_CHANT_009-1a.1-h
+    span:
+    - body
+    - 0
+    - 4135
+  label: 勾踐陰謀外傳第九
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR2i0001_CHANT_010-1a.1-h
+    span:
+    - body
+    - 0
+    - 6143
+  label: 勾踐伐吳外傳第十
+  type: section
+  level: 1
+hash: sha256:b36a3b057eea3e212ee489a508a69aa2dd6be269192a8f541083545d1e229190

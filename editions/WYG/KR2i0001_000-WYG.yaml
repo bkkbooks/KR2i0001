@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2i0001/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷
+  hash: sha256:ef4b231493a1de4836b09ee4240af62c0ae8962e29cda6652780d31fb6829897
+metadata:
+  title: 吴越春秋
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-10 23:32:58.888381'
+  source:
+    repository: kanripo
+    path: KR2i0001/KR2i0001_000.txt
+hash: sha256:6a9ce962fdbff1cc5a72a577d30bb4358b6757d1b2b2d94fa77c93a07e596c8d
