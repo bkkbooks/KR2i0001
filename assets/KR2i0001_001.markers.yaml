@@ -76,7 +76,6 @@ markers:
   - {type: 'tls:seg', offset: 97, content: '', id: KR2i0001_CHANT_001-1a.21}
   - {type: page-break, offset: 98, content: '', id: KR2i0001_SBCK_001-1b}
   - {type: variant, offset: 102, length: 1, content: 于, WYG: 於}
-  - {type: substitution, offset: 103, original: 阨, replacement: 厄, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1579}}
   - {type: punctuation, offset: 107, content: ，, id: KR2i0001_CHANT_001-bkkpn20}
   - {type: 'tls:seg', offset: 107, content: '', id: KR2i0001_CHANT_001-1a.22}
   - {type: variant, offset: 112, length: 0, content: '', SBCK: 作辟折疑當}
@@ -107,7 +106,6 @@ markers:
   - {type: variant, offset: 135, length: 1, content: 眾, SBCK: 衆}
   - {type: variant, offset: 135, length: 1, content: 眾, WYG: 衆}
   - {type: variant, offset: 135, length: 1, content: 眾, krp: 衆}
-  - {type: substitution, offset: 135, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: variant, offset: 140, length: 0, content: '', WYG: 之詩云誕置之寒氷鳥覆翼}
   - {type: punctuation, offset: 141, content: 。, id: KR2i0001_CHANT_001-bkkpn25}
   - {type: 'tls:seg', offset: 141, content: '', id: KR2i0001_CHANT_001-1a.27}
@@ -246,7 +244,6 @@ markers:
   - {type: variant, offset: 328, length: 0, content: '', SBCK: 僕皇僕子慶節子皇圉世本作亞圉雲都皇甫謐曰雲都亞圉字亞圉子公叔祖􅀋公叔差弗差弗子毁隃世本隃作榆毁隃子公非公非子髙圉髙圉子亞作父甫父通自慶節至是為八世祖􅀋子古公亶甫毛詩史記甫皆}
   - {type: variant, offset: 328, length: 0, content: '', WYG: 慶節子皇僕皇僕子差弗差弗子毁隃世本隃作榆毁隃子公非公非子髙圉髙圉子亞圉世本作亞圉雲都皇甫謐曰雲都亞圉字亞圉子公叔祖𩔖公叔祖𩔖子古公亶甫毛詩史記甫皆作父甫父通自慶節至是為八世}
   - {type: variant, offset: 328, length: 0, content: '', krp: 僕皇僕子慶節子皇圉世本作亞圉雲都皇甫謐曰雲都亞圉字亞圉子公叔祖類公叔差弗差弗子毁隃世本隃作榆毁隃子公非公非子髙圉髙圉子亞作父甫父通自慶節至是為八世祖類子古公亶甫毛詩史記甫皆}
-  - {type: substitution, offset: 328, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0760}}
   - {type: punctuation, offset: 331, content: 、, id: KR2i0001_CHANT_001-bkkpn69}
   - {type: punctuation, offset: 335, content: ，, id: KR2i0001_CHANT_001-bkkpn70}
   - {type: 'tls:seg', offset: 335, content: '', id: KR2i0001_CHANT_001-1a.68}
@@ -472,7 +469,6 @@ markers:
   - {type: variant, offset: 630, length: 1, content: 絕, SBCK: 絶}
   - {type: variant, offset: 630, length: 1, content: 絕, WYG: 絶}
   - {type: variant, offset: 630, length: 1, content: 絕, krp: 絶}
-  - {type: substitution, offset: 630, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 634, content: 。, id: KR2i0001_CHANT_001-bkkpn153}
   - {type: 'tls:seg', offset: 634, content: '', id: KR2i0001_CHANT_001-1a.132}
   - {type: punctuation, offset: 639, content: ，, id: KR2i0001_CHANT_001-bkkpn154}
@@ -549,7 +545,6 @@ markers:
   - {type: variant, offset: 758, length: 1, content: 歷, WYG: 歴}
   - {type: punctuation, offset: 761, content: ，, id: KR2i0001_CHANT_001-bkkpn181}
   - {type: 'tls:seg', offset: 761, content: '', id: KR2i0001_CHANT_001-1a.157}
-  - {type: substitution, offset: 761, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0760}}
   - {type: punctuation, offset: 766, content: ，, id: KR2i0001_CHANT_001-bkkpn182}
   - {type: 'tls:seg', offset: 766, content: '', id: KR2i0001_CHANT_001-1a.158}
   - {type: punctuation, offset: 771, content: 。, id: KR2i0001_CHANT_001-bkkpn183}
@@ -595,7 +590,6 @@ markers:
   - {type: punctuation, offset: 828, content: ，, id: KR2i0001_CHANT_001-bkkpn198}
   - {type: 'tls:seg', offset: 828, content: '', id: KR2i0001_CHANT_001-1a.172}
   - {type: variant, offset: 829, length: 1, content: 謚, WYG: 諡}
-  - {type: substitution, offset: 829, original: 謚, replacement: 諡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3933}}
   - {type: variant, offset: 832, length: 1, content: 為, SBCK: 爲}
   - {type: variant, offset: 832, length: 1, content: 為, krp: 爲}
   - {type: variant, offset: 833, length: 1, content: 太, SBCK: 大}
@@ -695,4 +689,4 @@ markers:
   - {type: variant, offset: 980, length: 0, content: '', WYG: 呉王夀}
   - {type: variant, offset: 980, length: 0, content: '', krp: 吳越春秋吳太伯傳第一}
   back: []
-hash: sha256:a03f92d9798e18c76894c26dcdb9a387bd737cf5b32df17266f4b0252b680910
+hash: sha256:62466a265472a66676eb8852bb8b2b4e04e0d5f82ebdd828f1adaa132f16c540

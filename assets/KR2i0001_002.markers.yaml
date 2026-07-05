@@ -191,7 +191,6 @@ markers:
   - {type: variant, offset: 228, length: 1, content: 柰, SBCK: 奈}
   - {type: variant, offset: 228, length: 1, content: 柰, WYG: 奈}
   - {type: variant, offset: 228, length: 1, content: 柰, krp: 奈}
-  - {type: substitution, offset: 228, original: 柰, replacement: 奈, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3139}}
   - {type: punctuation, offset: 235, content: ，, id: KR2i0001_CHANT_002-bkkpn53}
   - {type: 'tls:seg', offset: 235, content: '', id: KR2i0001_CHANT_002-4a.17}
   - {type: punctuation, offset: 242, content: ？, id: KR2i0001_CHANT_002-bkkpn54}
@@ -363,7 +362,6 @@ markers:
   - {type: variant, offset: 528, length: 1, content: 絕, SBCK: 絶}
   - {type: variant, offset: 528, length: 1, content: 絕, WYG: 絶}
   - {type: variant, offset: 528, length: 1, content: 絕, krp: 絶}
-  - {type: substitution, offset: 528, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 531, content: ，, id: KR2i0001_CHANT_002-bkkpn124}
   - {type: 'tls:seg', offset: 531, content: '', id: KR2i0001_CHANT_002-5a.35}
   - {type: punctuation, offset: 537, content: 。, id: KR2i0001_CHANT_002-bkkpn125}
@@ -518,7 +516,6 @@ markers:
   - {type: variant, offset: 735, length: 1, content: 吳, WYG: 呉}
   - {type: punctuation, offset: 736, content: 。, id: KR2i0001_CHANT_002-bkkpn175}
   - {type: 'tls:seg', offset: 736, content: '', id: KR2i0001_CHANT_002-7a.6}
-  - {type: substitution, offset: 738, original: 谿, replacement: 溪, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1403}}
   - {type: punctuation, offset: 739, content: ，, id: KR2i0001_CHANT_002-bkkpn176}
   - {type: 'tls:seg', offset: 739, content: '', id: KR2i0001_CHANT_002-7a.7}
   - {type: variant, offset: 739, length: 0, content: '', SBCK: 縣南楚東境在譙國城父}
@@ -584,4 +581,4 @@ markers:
   - {type: page-break, offset: 828, content: '', id: KR2i0001_WYG_001-9a, image: WYG0463/WYG0463-0006c.png}
   - {type: variant, offset: 828, length: 0, content: '', krp: 吳越春秋吳王夀夢傳第二}
   back: []
-hash: sha256:721a2a30d06d69faab8663eb01e1c97d153232d8f2dcd5e7f7a5415d4160e782
+hash: sha256:7355a5dc69e2647efc906ede68e980c88b022179a0e86ba6a48627529514c5e0
