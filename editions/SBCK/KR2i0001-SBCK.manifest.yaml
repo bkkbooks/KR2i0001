@@ -27,7 +27,7 @@ assets:
   - {seq: 7, filename: KR2i0001_007-SBCK.yaml, hash: 'sha256:e32ed5788c8873c91a8139cf2df05b0e3b4fb9abf215467b4327d9a00c990180'}
   - {seq: 8, filename: KR2i0001_008-SBCK.yaml, hash: 'sha256:95ec0425678ab702b53074ed5c238051cf8c6f576d416bcda5d47548641adb41'}
   - {seq: 9, filename: KR2i0001_009-SBCK.yaml, hash: 'sha256:cb07273236af3b9f8d5fcba4fd0d3437c32031917f558ccc0876afae81b68f50'}
-  - {seq: 10, filename: KR2i0001_010-SBCK.yaml, hash: 'sha256:91f06faf4a2ea10c2873e1b9aa1b9006b59789a61647e5edad1cbedf17f85b8b'}
+  - {seq: 10, filename: KR2i0001_010-SBCK.yaml, hash: 'sha256:86bcc47835dc9e5b3f5d843b2c2099af39791cedc0e6569c3f4c395c1abfd1f2'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR2i0001_000-SBCK.markers.yaml, hash: 'sha256:7135942d5a884113cd27d54c2a3470a9298aa0ceda558fe966496636b23071cf'}
   - {seq: 1, role: markers, filename: assets/KR2i0001_001-SBCK.markers.yaml, hash: 'sha256:a4c4530b40f324e9cce4437558baac1a2215b8e037552aa6a0d556b70fbd07c6'}
@@ -39,7 +39,7 @@ assets:
   - {seq: 7, role: markers, filename: assets/KR2i0001_007-SBCK.markers.yaml, hash: 'sha256:aa66ba1ac695ca4c5cfd7bcf8947c5feaa73c2dcd131b355033d79da8bbf4f7c'}
   - {seq: 8, role: markers, filename: assets/KR2i0001_008-SBCK.markers.yaml, hash: 'sha256:804554db94dc7eeff75733dbdedbb15575c944039d86b37abcbf6148261b5fd5'}
   - {seq: 9, role: markers, filename: assets/KR2i0001_009-SBCK.markers.yaml, hash: 'sha256:2ebb34add6aa82211701c4ff1d52f3ab84dc2b3888f8775c72a59071ebe76343'}
-  - {seq: 10, role: markers, filename: assets/KR2i0001_010-SBCK.markers.yaml, hash: 'sha256:92b0c89965dd570dc306a5986f1946f27e9d160b20c9f8a7d483f147213d5391'}
+  - {seq: 10, role: markers, filename: assets/KR2i0001_010-SBCK.markers.yaml, hash: 'sha256:b33d67e43094df2f5c053b8d4690813e91c798312dd335172b1fc102f687c4c2'}
 table_of_contents:
 - ref:
     seq: 0
@@ -146,9 +146,9 @@ table_of_contents:
     marker_id: KR2i0001_SBCK_010-1a
     span:
     - body
-    - 0
-    - 84
+    - 7950
+    - 8034
   label: juan 010
   type: section
   level: 1
-hash: sha256:b44800aec50967152569e392b2db22fe2843073cfa4f00338f6a25f35c86c822
+hash: sha256:63754f88023a744436be7a623006f4823bdc14d4ba02febe5a23ec8d92b216bc
